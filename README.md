@@ -6,6 +6,8 @@ Une application desktop avec Marionette.js
 -----------------------------------
 [Paul Jarleton](https://twitter.com/sarlam_j)
 
+Slides dispos dans ce dépôt.
+
 Testabilité unitaire d’une application Backbone
 -------------------------------
 Cédric Hartland
